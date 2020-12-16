@@ -27,4 +27,8 @@ public class HesaplamaApp {
 		}
 		return sayi1 / sayi2;
 	}
+	
+	public static int kareAlma(int sayi) {
+		return sayi * sayi;
+	}
 }
